@@ -35,5 +35,5 @@ No modules.
 
 | Name | Description |
 |------|-------------|
-| <a name="output_realm_internal_ids"></a> [realm\_internal\_ids](#output\_realm\_internal\_ids) | Map of Realm names and internal IDs. |
+| <a name="output_internal_ids"></a> [internal\_ids](#output\_internal\_ids) | Map of Realm names and internal IDs. |
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
